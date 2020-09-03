@@ -1,27 +1,38 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: About Me
+description: About Robert Chatterton
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2020-09-02
     changefreq: weekly
 ---
-## About our Site
+<header class="major">
+  <h2>About Me</h2>
+</header>
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+### Academic Background
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+<span class="image left"><img src="/images/me2.jpg" alt="me" /></span>
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+<p>
+  Hello there! Thanks for checking out my website.
+</p>
+<p>
+  My name is <b>Robert Chatterton</b>, and I am a third year Computer Science student enrolled in the Khoury College of Computer Sciences at Northeastern University. I just recently transferred into becoming a straight Computer Science major, as I was previously a combined Computer Engineering and Computer Science major in the Snell College of Engineering at Northeastern. After taking the foundational courses, I realized that I had fallen in love with the software side of computers so much that I wanted to pursue those interests full time.
+</p>
+<p>
+  I am currently in the process of obtaining a Bachelor's of Science in Computer Science with a concentration in Artificial Intelligence. AI, machine learning, data science, and computer vision have always stuck out to me as the cutting edge of technology, which is right where I want to be.
+</p>
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
+### Interests and Activities
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+<!--
+What to talk about:
+College path
+interests
+Other activities:
+  art/editing
+  frat
+ -->
