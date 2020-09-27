@@ -6,13 +6,7 @@ excerpt: "The classic video game, Minesweeper."
 image: "/images/minesweeper.png"
 ---
 
-## Content
+## Content coming soon
 <!-- <span class="image left"> -->
   <img src="/images/minesweeper.gif" alt="" width="200" height="200" />
 <!-- </span> -->
-<p>
-  you can play minesweeper how neat is that
-</p>
-
-## More info soon
-### more

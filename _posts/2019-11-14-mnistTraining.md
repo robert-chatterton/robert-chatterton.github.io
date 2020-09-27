@@ -6,8 +6,4 @@ excerpt: "Using the MNIST database of handwritten digits, determine the number i
 image: "/images/mnistTesting2.png"
 ---
 
-## Content
-machine learning go brrrrrr
-
-## More info soon
-### Need more content
+## Content coming soon

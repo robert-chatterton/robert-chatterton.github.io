@@ -6,8 +6,5 @@ excerpt: "A program which reads in animation text files and outputs to several d
 image: "/images/mnistTesting2.png"
 ---
 
-## Content
+## Content coming soon
 animation program
-
-## More info soon
-### Need more content

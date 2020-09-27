@@ -6,8 +6,5 @@ excerpt: "A simple processor, designed in Simulink, with basic calculation and r
 image: "/images/mnistTesting2.png"
 ---
 
-## Content
+## Content coming soon
 simple sequential processor
-
-## More info soon
-### Need more content
